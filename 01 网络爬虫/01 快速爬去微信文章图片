@@ -1,1 +1,7 @@
+How to get all pictures in specific Wechat artcile?
 
+1> Open the subsription article using the website, e.g. Chorme.
+2> Find the similiar attribution for pictures you want to download.
+3> Creat the regular complie expression for urls.
+4> Download pics for all urls.
+5> Done.
